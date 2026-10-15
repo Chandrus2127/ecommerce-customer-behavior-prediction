@@ -1,0 +1,6 @@
+Metric,Value
+Test Loss,0.9442148804664612
+Test Accuracy,0.5908346972176759
+Weighted Precision,0.6327482603430916
+Weighted Recall,0.5908346972176759
+Weighted F1-Score,0.60471393251069
